@@ -46,5 +46,3 @@ The design must solve for the user who **cannot leave their desk**, not the user
 ## Tools Used
 
 - Figma / FigJam 
-
-## Project Structure
